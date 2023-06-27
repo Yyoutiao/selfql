@@ -13,7 +13,8 @@
 ```
 ql repo https://github.com/Yyoutiao/selfql.git
 ```
-# 4.交流群
-## 建了一个交流qq群，571540409(群里不要私聊我干dy，ks，tx，提这种百分百飞机票)
+# 4.公众号
+## 建了一个微信公众号，欢迎关注
+![Image text](https://s2.loli.net/2023/06/27/bLCFxtIsjdSivVl.jpg)
 # 注意：
 # 此为本人自写自用脚本，仅供参考学习，切勿用作商用，请在下载后24小时内自行删除，出现任何后果作者概不负责，使用即代表同意本条款。
